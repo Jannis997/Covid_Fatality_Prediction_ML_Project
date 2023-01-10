@@ -1,1 +1,1 @@
-# Covid_Fatality_Predicztion_ML_Project
+# Covid_Fatality_Prediction_ML_Project
